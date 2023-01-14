@@ -1,3 +1,5 @@
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@e7dd84d2-a7e9-4153-972c-f3aa822ea7ec/dcfa6263-af7d-4929-8ee0-de0f77a41deb.png" /></a>
+
 ### Hi there 👋
 
 <!--
